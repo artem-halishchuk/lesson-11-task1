@@ -1,0 +1,30 @@
+body {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-size: 10px;
+  /* width: 1600px;
+  margin-left: auto;
+  margin-right: auto; */
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+* {
+  box-sizing: border-box;
+}
+
+.link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.1;
+  text-align: center;
+  color: #458ff6;
+
+  border: 2px solid #458ff6;
+  border-radius: 55px;
+  padding: 18px 51px;
+}
+.margin-block {
+  margin-bottom: 190px;
+}
